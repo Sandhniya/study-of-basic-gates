@@ -65,20 +65,23 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-![Screenshot 2024-03-24 192331](https://github.com/Sandhniya/study-of-basic-gates/assets/151395890/1578e48f-8eab-4a47-8078-cb1d213f9127)
-
-
+![Screenshot 2024-03-24 192331](https://github.com/Sandhniya/study-of-basic-gates/assets/151395890/304e474b-0e90-4cca-9c8f-81d1fd6a2e81)
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
-![Screenshot 2024-03-24 192410](https://github.com/Sandhniya/study-of-basic-gates/assets/151395890/9d9238cb-1f7b-4315-b6c6-4477c94047f1)
 
-![Screenshot 2024-03-24 192434](https://github.com/Sandhniya/study-of-basic-gates/assets/151395890/025709fb-a72f-4352-a47e-d3efc6fa681d)
+709fb-a72f-4352-a47e-d3efc6fa681d)
+![Screenshot 2024-03-24 192434](https://github.com/Sandhniya/study-of-basic-gates/assets/151395890/71641a68-9c3b-4fff-a99f-c98034619ea0)
+
+![Screenshot 2024-03-24 192410](https://github.com/Sandhniya/study-of-basic-gates/assets/151395890/33436c5e-bf5f-4673-92a7-e3493cc4d86c)
+
 
 
 
 **RTL realization Output:** 
-![Screenshot 2024-03-24 192155](https://github.com/Sandhniya/study-of-basic-gates/assets/151395890/4ef96502-e051-4bfe-9664-81b8d285199f)
+![Screenshot 2024-03-24 192213](https://github.com/Sandhniya/study-of-basic-gates/assets/151395890/ad1f4f09-30ed-4d65-9d58-eda3525b9192)
+
+
 
 
 **RTL**
